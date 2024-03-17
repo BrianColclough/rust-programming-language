@@ -47,4 +47,28 @@ fn main() {
     }
 
     println!("LIFTOFF!!!");
+
+
+    // conditional while loops
+    let a = [10, 20, 30, 40, 50];
+    let mut index = 0;
+
+    while index < 5 {
+        println!("the value is: {}", a[index]);
+        index += 1;
+    }
+
+    // a more concice alternaitive is to use a for loop
+    for element in a {
+        println!("the value is: {element}");
+    }
+
+    // this increases the safety of the code and eliminates bugs that could arise from going out of
+    // the bounds of the array
+
+    //  if we were to use a for loop to make the range example from before
+    for number in (1..4).rev() {
+        println!("{number}");
+    }
+    println!("LIFTOFF!!!");
 }
