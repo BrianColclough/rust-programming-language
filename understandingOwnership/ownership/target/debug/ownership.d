@@ -1,0 +1,1 @@
+C:\Users\bcolc\coding\rust-programming-language\understandingOwnership\ownership\target\debug\ownership.exe: C:\Users\bcolc\coding\rust-programming-language\understandingOwnership\ownership\src\main.rs
