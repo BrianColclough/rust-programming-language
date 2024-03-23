@@ -1,0 +1,1 @@
+C:\Users\bcolc\coding\rust-programming-language\07ManagingGrowingProjectsWithPackagesCratesModules\restaurant\target\debug\librestaurant.rlib: C:\Users\bcolc\coding\rust-programming-language\07ManagingGrowingProjectsWithPackagesCratesModules\restaurant\src\lib.rs
